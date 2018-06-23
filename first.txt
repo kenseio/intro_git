@@ -5,3 +5,9 @@ gitの練習を始めていきます。
  - git commit
  - git rm
  - git status
+ - git log
+  - --oneline
+  - -p
+  - -n 3
+ - git diff
+  - head
