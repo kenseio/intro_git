@@ -1,6 +1,7 @@
 gitの練習を始めていきます。
-ついかしました
+ついかしました.
 
  - git add
  - git commit
  - git rm
+ - git status
